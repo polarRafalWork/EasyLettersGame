@@ -35,8 +35,6 @@ namespace EasyLettersGame
                 listBox1.Items.Clear();
                 listBox1.Items.Add("Koniec Gry");
                 timer1.Stop();
-                Console.WriteLine( " testowy kawałek kodu który się nie pojawi nigdzie");
-                // taką mam nadzeiję
             }
         }
 
