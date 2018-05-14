@@ -24,7 +24,7 @@ namespace EasyLettersGame
         {
             string communicate = "Master Keyboard by Rafal! \n press keys visible in screen as quick as possible!";
             MessageBox.Show(communicate, "Game Rules");
-            Console.WriteLine();
+            
         }
 
         private void timer1_Tick(object sender, EventArgs e)
